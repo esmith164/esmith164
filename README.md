@@ -1,11 +1,14 @@
-## Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/d8c6c6af-5b2d-4616-a40a-d408f6837e46.svg)](https://wakatime.com/@d8c6c6af-5b2d-4616-a40a-d408f6837e46)
 
+Research Assistant @Yale, Studying CS @ UF
+Prev. Software Engineer @ Alqen : https://alqen.com
+Prev. Freelance Software Develeoper
 <!--
 **esmith164/esmith164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
